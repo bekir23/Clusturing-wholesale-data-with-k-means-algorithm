@@ -10,7 +10,7 @@ Thus, there is no outcome to be predicted, and the algorithm just tries to find 
 
 Dataset Columns Descriptions:
 
-Channel - Horeca (Hotel/Restaurant/Cafe or Retail channel (Nominal)
+Channel - Horeca (Hotel/Restaurant/Cafe or Retail channel (Nominal)/n
 Regions - Lisnon, Oporto or Other (Nominal)
 Fresh   - annual spending (m.u.) on fresh products (Continuous)
 Milk    - annual spending (m.u.) on milk products (Continuous)
